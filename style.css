@@ -674,6 +674,7 @@ row {
     }
 
     .Hero p {
+        font-size: .85rem;
         padding: 1.5rem 1rem;
         text-align: center;
     }
